@@ -5,8 +5,8 @@ import js from "../assets/js.png"
 import react from "../assets/react.png"
 import tailwind from "../assets/tailwind.png"
 import sql from "../assets/sql.png"
-import java from "../assets/java.png"
-import cpp from "../assets/cpp.png"
+import python from "../assets/python.png"
+import manualtesting from "../assets/manualtesting.png"
 import github from "../assets/github.png"
 
 const MySkills = () => {
@@ -55,14 +55,14 @@ const MySkills = () => {
         },
         {
             id:8,
-            src:cpp,
-            title:'C++',
+            src:python,
+            title:'Python',
             style:'shadow-gray-400',
         },
         {
             id:9,
-            src:java,
-            title:'Java',
+            src:manualtesting,
+            title:'Manual Testing',
             style:'shadow-orange-500',
         },
     ]

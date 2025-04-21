@@ -12,7 +12,7 @@ const SocialLinks = () => {
                     LinkedIn <FaLinkedin size={30}/>
                 </>
             ),
-            href:'https://in.linkedin.com/in/rohit-pallewad-394945220',
+            href:'https://www.linkedin.com/in/rohit-pallewad-394945220/',
             style: 'rounded-tr-md'
         },
         {

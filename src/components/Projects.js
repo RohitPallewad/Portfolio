@@ -10,7 +10,7 @@ const Projects = () => {
         },
         {
             id:2,
-            isrc:'/project_image/project2.png',
+            isrc:'/project_image/project4.png',
             dsrc:'https://rohit-pallewad.netlify.app/',
             csrc:'https://github.com/RohitPallewad/Portfolio'
         }

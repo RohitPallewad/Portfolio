@@ -23,9 +23,6 @@ const About = () => {
             projects in the <b>React.Js.</b>I plan to learn <b>Next.js</b>, and<b> Typescript</b> in the near future. <br /><br />
             Also, I love <b>coffee <CiCoffeeCup className=' inline-block -z-10' style={{scale:"2.0", rotate:"15deg" }}/>   
         </b>
-            
-            
-
         </p>
       </div>
     </div>
